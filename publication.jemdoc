@@ -1,0 +1,50 @@
+# jemdoc: menu{MENU}{publication.html}, nofooter
+== Publication
+
+[https://scholar.google.com/citations?user=Q65PtLgAAAAJ&hl=en \[Google Scholar\]]
+
+=== In review
+- [pubs/2021-SPG.pdf Global Convergence of Stochastic Policy Gradient Methods with Momentum and Entropy] \n
+*Y. Ding*, J. Zhang, and J. Lavaei \n
+
+- [https://lavaei.ieor.berkeley.edu/LS_2019_1.pdf Aggressive Local Search for Constrained Optimal Control Problems with Many Local Minima] \n
+*Y. Ding*, F. Han, and J. Lavaei \n
+
+=== Journal
+- [pubs/2021-time-variation-TAC.pdf Time-variation in Online Nonconvex Optimization Enables Escaping from Spurious Local Minima] \n
+*Y. Ding*, and J. Lavei, M. Arcak \n
+conditionally accepted for IEEE Transactions on Automatic Control, 2021.
+
+- [pubs/2020-on-absence-TAC.pdf On the Absence of Spurious Local Trajectories in Time-varying Nonconvex Optimization] \n
+S. Fattahi, C. Josz, *Y. Ding*, R. Mohammadi, J. Lavaei, S. Sojoudi \n
+conditionally accepted for IEEE Transactions on Automatic Control, 2021.
+
+=== Conference
+#- [pubs/list-wise.pdf Structured Projection-free Online Convex Optimization with Multi-Point Bandit Feedback] \[[https://github.com/jshang2/List-wise Code]\] \n
+#(research full paper, acceptance rate: 216/1279=16.89\%) \n
+#*Jin Shang*, Mingxuan Sun, and Nina S. N. Lam \n
+#in Proc. of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), San Diego, USA, Aug. 2020.
+
+- [pubs/2021-structured-online-opt.pdf Structured Projection-free Online Convex Optimization with Multi-Point Bandit Feedback] \n
+*Y. Ding*, and J. Lavaei \n
+in IEEE conference on Decision and Control (CDC), 2021.
+
+- [https://ieeexplore.ieee.org/abstract/document/9483238 Analysis of Spurious Local Solutions of Optimal Control Problems: One-Shot Optimization Versus Dynamic Programming] \n
+*Y. Ding*, Y. Bi, and J. Lavaei \n
+in American Control Conference (ACC). IEEE, 2021.
+
+- [https://ieeexplore.ieee.org/document/9483303 Escaping spurious local minimum trajectories in online time-varying nonconvex optimization] \n
+*Y. Ding*, J. Lavaei and M. Arcak \n
+in American Control Conference (ACC). IEEE, 2021.
+(*Finalist for Best Student Paper Award*)
+
+- [https://www.sciencedirect.com/science/article/pii/S2405896318311455 Input Design for Nonlinear Model Discrimination via Affine Abstraction] \n
+K. Singh, *Y. Ding*, N. Ozay, S.Z. Yong.\n
+in Proc. 6th IFAC Conference on Analysis and Design of Hybrid Systems (ADHS), Oxford, UK, July 2018.
+
+- [https://ieeexplore.ieee.org/abstract/document/8443743 Optimal Input Design for Affine Model Discrimination with Applications in Intention-Aware Vehicles] \n
+*Y. Ding*, F. Harirchi, S.Z. Yong, E. Jacobsen, N. Ozay \n
+in 9th ACM/IEEE International Conference on Cyber-Physical Systems (ICCPS), Porto, Portugal, April 2018.
+
+
+

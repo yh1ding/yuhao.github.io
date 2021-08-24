@@ -1,0 +1,26 @@
+# jemdoc: menu{MENU}{home.html}, nofooter  
+==Yuhao Ding 
+
+~~~
+{}{img_left}{photos/photo_Yuhao.jpeg}{alt text}{250px}{260px}
+Fourth-year PhD student,\n 
+[https://ieor.berkeley.edu/ Industrial Engineering and Operations Research], \n
+[https://www.berkeley.edu/ University of California, Berkeley],\n
+*Advisor*: [https://lavaei.ieor.berkeley.edu/ Javad Lavaei],\n
+*Email*: /yuhao_ding/ \[@\] berkeley \[DOT\] edu, \n
+*[cv/cv.pdf CV]*
+~~~
+
+== Brief Biography
+Yuhao Ding works on the interdisciplinary problems in reinforcement learning, optimization theory and control theory.  
+
+== Recent News 
+- July 2021: The paper [pubs/list-wise.pdf Structured Projection-free Online Convex Optimization with Multi-point Bandit Feedback] to appear in 60th Conference on Decision and Control.
+- June 2021: The paper [pubs/2021-time-variation-TAC.pdf Time-variation in online nonconvex optimization enables escaping from spurious local minima] has been conditionally accepted for IEEE Transactions on Automatic Control.
+- May 2021: I started the research internship at Microsoft research working with [https://www.microsoft.com/en-us/research/people/emrek/ Emre Kiciman].
+- May 2021: New paper on reinforcement learning: [pubs/SPG.pdf Global Convergence of Stochastic Policy Gradient Methods with Momentum and Entropy].
+- April 2021: The paper [pubs/2020-on-absence-TAC.pdf On the absence of spurious local trajectories in time-varying nonconvex optimization] has been conditionally accepted for IEEE Transactions on Automatic Control.
+- January 2021: The paper [https://ieeexplore.ieee.org/document/9483303 Escaping spurious local minimum trajectories in online time-varying nonconvex optimization] has been selected as a best student paper finalist for 2021 American Control Conference.
+
+
+
