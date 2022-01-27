@@ -4,14 +4,11 @@
 [https://scholar.google.com/citations?user=Q65PtLgAAAAJ&hl=en \[Google Scholar\]]
 
 === In review
-- [https://arxiv.org/abs/2110.10116 On the Global Convergence of Momentum-based Policy Gradient] \n
-*Y. Ding*, J. Zhang, and J. Lavaei \n
+- [https://lavaei.ieor.berkeley.edu/Safe_RL_2022_1.pdf Provably Efficient Primal-Dual Reinforcement Learning for CMDPs with Non-stationary Objectives and Constraints] \n
+*Y. Ding* and J. Lavaei \n
 
 - [https://arxiv.org/abs/2110.10117 Beyond Exact Gradients: Convergence of Stochastic Soft-Max Policy Gradient Methods with Entropy Regularization] \n
 *Y. Ding*, J. Zhang, and J. Lavaei \n
-
-- [https://arxiv.org/abs/2110.08923 A Dual Approach to Constrained Markov Decision Processes with Entropy Regularization] \n
-D. Ying, *Y. Ding*, and J. Lavaei \n
 
 - [https://lavaei.ieor.berkeley.edu/LS_2019_1.pdf Aggressive Local Search for Constrained Optimal Control Problems with Many Local Minima] \n
 *Y. Ding*, F. Han, and J. Lavaei \n
@@ -30,6 +27,15 @@ conditionally accepted for IEEE Transactions on Automatic Control, 2021.
 #(research full paper, acceptance rate: 216/1279=16.89\%) \n
 #*Jin Shang*, Mingxuan Sun, and Nina S. N. Lam \n
 #in Proc. of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), San Diego, USA, Aug. 2020.
+
+
+- [https://arxiv.org/abs/2110.10116 On the Global Convergence of Momentum-based Policy Gradient] \n
+*Y. Ding*, J. Zhang, and J. Lavaei \n
+in International Conference on Artificial Intelligence and Statistics (AISTATS), 2022.
+
+- [https://lavaei.ieor.berkeley.edu/LS_2019_1.pdf Aggressive Local Search for Constrained Optimal Control Problems with Many Local Minima] \n
+D. Ying, *Y. Ding*, and J. Lavaei \n
+in International Conference on Artificial Intelligence and Statistics (AISTATS), 2022.
 
 - [pubs/2021-structured-online-opt.pdf Structured Projection-free Online Convex Optimization with Multi-Point Bandit Feedback] \n
 *Y. Ding*, and J. Lavaei \n
