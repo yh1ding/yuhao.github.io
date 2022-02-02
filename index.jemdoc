@@ -20,7 +20,7 @@ Fourth-year PhD student,\n
 Yuhao Ding works on the interdisciplinary problems in reinforcement learning, optimization theory and control theory.  
 
 == Recent News 
-- Jan 2022: New paper on reinforcement learning: [https://lavaei.ieor.berkeley.edu/Safe_RL_2022_1.pdf Provably Efficient Primal-Dual Reinforcement Learning for CMDPs with Non-stationary Objectives and Constraints].
+- Jan 2022: New paper on reinforcement learning: [https://arxiv.org/abs/2201.11965 Provably Efficient Primal-Dual Reinforcement Learning for CMDPs with Non-stationary Objectives and Constraints].
 - Jan 2022: Two papers to appear in International Conference on Artificial Intelligence and Statistics (AISTATS): [https://arxiv.org/abs/2110.08923 A Dual Approach to Constrained Markov Decision Processes with Entropy Regularization], and [https://arxiv.org/abs/2110.10116 On the Global Convergence of Momentum-based Policy Gradient].
 - Oct 2021: I gave a guest lecture on model-free reinforcement learning for IEOR 268 Applied Dynamic Programming at UC Berkeley.
 - Oct 2021: I gave a talk for the session on Recent Advances in Data Efficient Reinforcement Learning with Policy Gradient Methods at the 2021 INFORMS Annual Meeting.
