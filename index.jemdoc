@@ -19,16 +19,21 @@ Fourth-year PhD student,\n
 == Brief Biography
 Yuhao Ding works on the interdisciplinary problems in reinforcement learning, optimization theory and control theory.  
 
-== Recent News 
+== News 
+- May 2022: I started the internship at Amazon AWS AI Lab as an applied scientist intern.
+- May 2022: New paper on reinforcement learning: Provable Guarantees for Meta-Safe Reinforcement Learning.
+- May 2022: New paper on reinforcement learning: [pubs/2022-Convex-CMDP.pdf Policy-based Primal-Dual Methods for Convex Constrained Markov Decision Processes].
+- May 2022: New paper on reinforcement learning: [pubs/2022-NS-RS-RL.pdf Non-stationary Risk-sensitive Reinforcement Learning: Near-optimal Dynamic Regret, Adaptive Detection, and Separation Design].
+- May 2022: I received the Marshall-Olivier-Rosenberger Fellowship given by UC Berkeley IEOR department.
 - Jan 2022: New paper on reinforcement learning: [https://arxiv.org/abs/2201.11965 Provably Efficient Primal-Dual Reinforcement Learning for CMDPs with Non-stationary Objectives and Constraints].
-- Jan 2022: Two papers to appear in International Conference on Artificial Intelligence and Statistics (AISTATS): [https://arxiv.org/abs/2110.08923 A Dual Approach to Constrained Markov Decision Processes with Entropy Regularization], and [https://arxiv.org/abs/2110.10116 On the Global Convergence of Momentum-based Policy Gradient].
+- Jan 2022: Two papers to appear in International Conference on Artificial Intelligence and Statistics (AISTATS): [https://arxiv.org/abs/2110.08923 A Dual Approach to Constrained Markov Decision Processes with Entropy Regularization], and [https://arxiv.org/abs/2110.10116 On the Global Optimum Convergence of Momentum-based Policy Gradient].
 - Oct 2021: I gave a guest lecture on model-free reinforcement learning for IEOR 268 Applied Dynamic Programming at UC Berkeley.
 - Oct 2021: I gave a talk for the session on Recent Advances in Data Efficient Reinforcement Learning with Policy Gradient Methods at the 2021 INFORMS Annual Meeting.
 - Oct 2021: Two new papers posted on arXiv. In these papers, we derive the first set of global convergence results for stochastic policy gradient methods with [https://arxiv.org/abs/2110.10116 momentum] and [https://arxiv.org/abs/2110.10117 entropy].
 - Oct 2021: New paper on constrained Markov decision processes: [https://arxiv.org/abs/2110.08923 A Dual Approach to Constrained Markov Decision Processes with Entropy Regularization].
 - July 2021: The paper [pubs/2021-structured-online-opt.pdf Structured Projection-free Online Convex Optimization with Multi-point Bandit Feedback] to appear in 60th Conference on Decision and Control.
 - June 2021: The paper [pubs/2021-time-variation-TAC.pdf Time-variation in online nonconvex optimization enables escaping from spurious local minima] has been conditionally accepted for IEEE Transactions on Automatic Control.
-- May 2021: I started the research internship at Microsoft research working with [https://www.microsoft.com/en-us/research/people/emrek/ Emre Kiciman].
+- May 2021: I started the research internship at Microsoft research.
 - April 2021: The paper [pubs/2020-on-absence-TAC.pdf On the absence of spurious local trajectories in time-varying nonconvex optimization] has been conditionally accepted for IEEE Transactions on Automatic Control.
 - January 2021: The paper [https://ieeexplore.ieee.org/document/9483303 Escaping spurious local minimum trajectories in online time-varying nonconvex optimization] has been selected as a best student paper finalist for 2021 American Control Conference.
 
