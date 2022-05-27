@@ -21,10 +21,10 @@ Yuhao Ding works on the interdisciplinary problems in reinforcement learning, op
 
 == News 
 - May 2022: I started the internship at Amazon AWS AI Lab as an applied scientist intern.
-#- May 2022: New paper on reinforcement learning: Provable Guarantees for Meta-Safe Reinforcement Learning.
+- May 2022: New paper on reinforcement learning: [pubs/MDP_Meta_2022_1.pdf Provable Guarantees for Meta-Safe Reinforcement Learning].
 - May 2022: New paper on reinforcement learning: [pubs/2022-Convex-CMDP.pdf Policy-based Primal-Dual Methods for Convex Constrained Markov Decision Processes].
 - May 2022: New paper on reinforcement learning: [pubs/2022-NS-RS-RL.pdf Non-stationary Risk-sensitive Reinforcement Learning: Near-optimal Dynamic Regret, Adaptive Detection, and Separation Design].
-- May 2022: I received the Marshall-Olivier-Rosenberger Fellowship given by UC Berkeley IEOR department.
+- May 2022: I received the Marshall-Olivier-Rosenberger Fellowship given by UC Berkeley.
 - Jan 2022: New paper on reinforcement learning: [https://arxiv.org/abs/2201.11965 Provably Efficient Primal-Dual Reinforcement Learning for CMDPs with Non-stationary Objectives and Constraints].
 - Jan 2022: Two papers to appear in International Conference on Artificial Intelligence and Statistics (AISTATS): [https://arxiv.org/abs/2110.08923 A Dual Approach to Constrained Markov Decision Processes with Entropy Regularization], and [https://arxiv.org/abs/2110.10116 On the Global Optimum Convergence of Momentum-based Policy Gradient].
 - Oct 2021: I gave a guest lecture on model-free reinforcement learning for IEOR 268 Applied Dynamic Programming at UC Berkeley.
