@@ -13,13 +13,16 @@ Fourth-year PhD student,\n
 
 *Email*: /yuhao_ding/ \[@\] berkeley \[DOT\] edu, \n
 
-*[cv/CV_Yuhao.pdf CV]*
+*[cv/CV_Yuhao_October.pdf CV]*
 ~~~
 
 == Brief Biography
 Yuhao Ding works on the interdisciplinary problems in reinforcement learning, optimization theory and control theory.  
 
 == News 
+- October 2022: I organized a session on Recent Advances in Data Efficient Reinforcement Learning with Policy Gradient Methods at the 2021 INFORMS Annual Meeting.
+We were excited and honored to have a great team of speakers (alphabetical): Dongsheng Ding, Ming Jin, Alec Koppel and Donghao Ying.
+- October 2022: New paper on reinforcement learning: [https://lavaei.ieor.berkeley.edu/MARL_Local_2022.pdf Scalable Multi-Agent Reinforcement Learning with General Utilities].
 - May 2022: I started the internship at Amazon AWS AI Lab as an applied scientist intern.
 - May 2022: New paper on reinforcement learning: [pubs/MDP_Meta_2022_1.pdf Provable Guarantees for Meta-Safe Reinforcement Learning].
 - May 2022: New paper on reinforcement learning: [pubs/2022-Convex-CMDP.pdf Policy-based Primal-Dual Methods for Convex Constrained Markov Decision Processes].
