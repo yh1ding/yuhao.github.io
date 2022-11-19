@@ -3,37 +3,6 @@
 
 [https://scholar.google.com/citations?user=Q65PtLgAAAAJ&hl=en \[Google Scholar\]]
 
-=== Preprint
-- [https://lavaei.ieor.berkeley.edu/MARL_Local_2022.pdf Scalable Multi-Agent Reinforcement Learning with General Utilities] \n
-D. Ying, *Y. Ding*, A. Koppel, and J. Lavaei \n
-Submitted to ACC 2023.
-
-- [ Dynamic Ensembling for Probabilistic Time Series Forecasting via Deep Reinforcement Learning.] \n
-*Y. Ding*, Y. Park, K. Gopalswamy, H. Hasson, Y. Wang, and L. Huan \n
-
-- [pubs/MDP_Meta_2022_1.pdf Provable Guarantees for Meta-Safe Reinforcement Learning] \n
-V. Khattar, *Y. Ding*, J. Lavaei, and J. Ming\n
-Submitted to ICLR 2023.
-
-- [pubs/2022-Convex-CMDP.pdf Policy-based Primal-Dual Methods for Convex Constrained Markov Decision Processes] \n
-D. Ying, M. Guo, *Y. Ding*, J. Lavaei, and Zuo-Jun (Max) Shen \n
-Submitted to AAAI 2023.
-
-- [pubs/2022-NS-RS-RL.pdf Non-stationary Risk-sensitive Reinforcement Learning: Near-optimal Dynamic Regret, Adaptive Detection, and Separation Design] \n
-*Y. Ding*, J. Ming, and J. Lavaei \n
-Submitted to AAAI 2023.
-
-- [https://arxiv.org/abs/2201.11965 Provably Efficient Primal-Dual Reinforcement Learning for CMDPs with Non-stationary Objectives and Constraints] \n
-*Y. Ding* and J. Lavaei \n
-Submitted to AAAI 2023.
-
-- [https://arxiv.org/abs/2110.10117 Beyond Exact Gradients: Convergence of Stochastic Soft-Max Policy Gradient Methods with Entropy Regularization] \n
-*Y. Ding*, J. Zhang, and J. Lavaei \n
-Under review of IEEE Transactions on Automatic Control.
-
-- [https://lavaei.ieor.berkeley.edu/LS_2019_1.pdf Aggressive Local Search for Constrained Optimal Control Problems with Many Local Minima] \n
-*Y. Ding*, F. Han, and J. Lavaei \n
-
 === Journal
 - [pubs/2021-time-variation-TAC.pdf Time-variation in Online Nonconvex Optimization Enables Escaping from Spurious Local Minima] \n
 *Y. Ding*, and J. Lavei, M. Arcak \n
@@ -44,11 +13,17 @@ S. Fattahi, C. Josz, *Y. Ding*, R. Mohammadi, J. Lavaei, S. Sojoudi \n
 IEEE Transactions on Automatic Control (regular paper), 2021.
 
 === Conference
-#- [pubs/list-wise.pdf Structured Projection-free Online Convex Optimization with Multi-Point Bandit Feedback] \[[https://github.com/jshang2/List-wise Code]\] \n
-#(research full paper, acceptance rate: 216/1279=16.89\%) \n
-#*Jin Shang*, Mingxuan Sun, and Nina S. N. Lam \n
-#in Proc. of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), San Diego, USA, Aug. 2020.
+- [pubs/2022-NS-RS-RL.pdf Non-stationary Risk-sensitive Reinforcement Learning: Near-optimal Dynamic Regret, Adaptive Detection, and Separation Design] \n
+*Y. Ding*, J. Ming, and J. Lavaei \n
+In AAAI Conference on Artificial Intelligence (AAAI), 2023.
 
+- [https://arxiv.org/abs/2201.11965 Provably Efficient Primal-Dual Reinforcement Learning for CMDPs with Non-stationary Objectives and Constraints] \n
+*Y. Ding* and J. Lavaei \n
+In AAAI Conference on Artificial Intelligence (AAAI), 2023.
+
+- [pubs/2022-Convex-CMDP.pdf Policy-based Primal-Dual Methods for Convex Constrained Markov Decision Processes] \n
+D. Ying, M. Guo, *Y. Ding*, J. Lavaei, and Zuo-Jun (Max) Shen \n
+In AAAI Conference on Artificial Intelligence (AAAI), 2023.
 
 - [https://arxiv.org/abs/2110.10116 On the Global Optimum Convergence of Momentum-based Policy Gradient] \n
 *Y. Ding*, J. Zhang, and J. Lavaei \n
@@ -80,4 +55,21 @@ in Proc. 6th IFAC Conference on Analysis and Design of Hybrid Systems (ADHS), Ox
 in 9th ACM/IEEE International Conference on Cyber-Physical Systems (ICCPS), Porto, Portugal, April 2018.
 
 
+=== Preprint
+- [https://lavaei.ieor.berkeley.edu/MARL_Local_2022.pdf Scalable Multi-Agent Reinforcement Learning with General Utilities] \n
+D. Ying, *Y. Ding*, A. Koppel, and J. Lavaei \n
+Submitted to ACC 2023.
 
+- [ Dynamic Ensembling for Probabilistic Time Series Forecasting via Deep Reinforcement Learning.] \n
+*Y. Ding*, Y. Park, K. Gopalswamy, H. Hasson, Y. Wang, and L. Huan \n
+
+- [pubs/MDP_Meta_2022_1.pdf Provable Guarantees for Meta-Safe Reinforcement Learning] \n
+V. Khattar, *Y. Ding*, J. Lavaei, and J. Ming\n
+Submitted to ICLR 2023.
+
+- [https://arxiv.org/abs/2110.10117 Beyond Exact Gradients: Convergence of Stochastic Soft-Max Policy Gradient Methods with Entropy Regularization] \n
+*Y. Ding*, J. Zhang, and J. Lavaei \n
+Under review of IEEE Transactions on Automatic Control.
+
+- [https://lavaei.ieor.berkeley.edu/LS_2019_1.pdf Aggressive Local Search for Constrained Optimal Control Problems with Many Local Minima] \n
+*Y. Ding*, F. Han, and J. Lavaei \n
