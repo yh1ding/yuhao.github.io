@@ -60,6 +60,10 @@ Proc. 6th IFAC Conference on Analysis and Design of Hybrid Systems (ADHS), Oxfor
 
 
 === Preprint
+- Learning-to-Learn to Guide Random Search: Derivative-Free Meta Blackbox Optimization on Manifold \n
+B. Sel, A. Tawaha, \textbf{Y. Ding}, R. Jia, B. Ji, J. Lavaei, M. Jin\n
+Submitted to L4DC 2023
+
 - [https://lavaei.ieor.berkeley.edu/MARL_Local_2022.pdf Scalable Multi-Agent Reinforcement Learning with General Utilities] \n
 D. Ying, *Y. Ding*, A. Koppel, and J. Lavaei \n
 Submitted to ACC 2023.
