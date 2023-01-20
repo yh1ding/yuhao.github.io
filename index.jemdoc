@@ -20,7 +20,9 @@ Fifth-year PhD student,\n
 Yuhao Ding works on the interdisciplinary problems in control, reinforcement learning, optimization and statistical learning.  
 
 == News 
-- January 2023: Our paper on [pubs/2022-NS-RS-RL.pdf Non-stationary Risk-sensitive Reinforcement Learning] is accepted for an oral talk in AAAI Conference on Artificial Intelligence (AAAI).
+- January 2023: Our paper [pubs/MDP_Meta_2022_1.pdf A CMDP-within-online framework for Meta-Safe Reinforcement Learning] is accepted for a spotlight presentation in International Conference on Learning Representations (ICLR).
+- January 2023: Our paper [https://lavaei.ieor.berkeley.edu/MARL_Local_2022.pdf Scalable Multi-Agent Reinforcement Learning with General Utilities] is accepted for American Control Conference (ACC).
+- January 2023: Our paper [pubs/2022-NS-RS-RL.pdf Non-stationary Risk-sensitive Reinforcement Learning] is accepted for an oral talk in AAAI Conference on Artificial Intelligence (AAAI).
 - November 2022: New Paper on meta learning: [pubs/Meta_Black_box_Optimization.pdf Learning-to-Learn to Guide Random Search: Derivative-Free Meta Blackbox Optimization on Manifold].
 - November 2022: Three papers to appear in AAAI Conference on Artificial Intelligence (AAAI): [pubs/2022-NS-RS-RL.pdf Non-stationary Risk-sensitive Reinforcement Learning], [pubs/2022-Convex-CMDP.pdf Convex Constrained Markov Decision Processes], and [https://arxiv.org/abs/2201.11965 Non-stationary Constrained Markov Decision Processes].
 - October 2022: I organized a session on ``Recent Advances in Provably Efficient Reinforcement Learning with Safety Guarantee'' at the 2022 INFORMS Annual Meeting.

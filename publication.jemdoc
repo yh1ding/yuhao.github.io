@@ -17,6 +17,15 @@ IEEE Transactions on Automatic Control (long paper), 2021.
 Under revision for IEEE Transactions on Automatic Control.
 
 === Conference
+- [pubs/MDP_Meta_2022_1.pdf A CMDP-within-online framework for Meta-Safe Reinforcement Learning] \n
+V. Khattar, *Y. Ding*, J. Lavaei, and J. Ming\n
+International Conference on Learning Representations (ICLR) 2023.
+(*Spotlight presentation*)
+
+- [https://lavaei.ieor.berkeley.edu/MARL_Local_2022.pdf Scalable Multi-Agent Reinforcement Learning with General Utilities] \n
+D. Ying, *Y. Ding*, A. Koppel, and J. Lavaei \n
+American Control Conference (ACC) 2023.
+
 - [pubs/2022-NS-RS-RL.pdf Non-stationary Risk-sensitive Reinforcement Learning: Near-optimal Dynamic Regret, Adaptive Detection, and Separation Design] \n
 *Y. Ding*, J. Ming, and J. Lavaei \n
 AAAI Conference on Artificial Intelligence (AAAI), 2023.
@@ -65,16 +74,8 @@ Proc. 6th IFAC Conference on Analysis and Design of Hybrid Systems (ADHS), Oxfor
 B. Sel, A. Tawaha, *Y. Ding*, R. Jia, B. Ji, J. Lavaei, M. Jin\n
 Submitted to L4DC 2023
 
-- [https://lavaei.ieor.berkeley.edu/MARL_Local_2022.pdf Scalable Multi-Agent Reinforcement Learning with General Utilities] \n
-D. Ying, *Y. Ding*, A. Koppel, and J. Lavaei \n
-Submitted to ACC 2023.
-
 - [Dynamic Ensembling for Probabilistic Time Series Forecasting via Deep Reinforcement Learning.] \n
 *Y. Ding*, Y. Park, K. Gopalswamy, H. Hasson, Y. Wang, and L. Huan \n
-
-- [pubs/MDP_Meta_2022_1.pdf Provable Guarantees for Meta-Safe Reinforcement Learning] \n
-V. Khattar, *Y. Ding*, J. Lavaei, and J. Ming\n
-Submitted to ICLR 2023.
 
 - [https://lavaei.ieor.berkeley.edu/LS_2019_1.pdf Aggressive Local Search for Constrained Optimal Control Problems with Many Local Minima] \n
 *Y. Ding*, F. Han, and J. Lavaei \n
