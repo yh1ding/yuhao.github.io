@@ -14,13 +14,13 @@ IEEE Transactions on Automatic Control (long paper), 2021.
 
 - [https://arxiv.org/abs/2110.10117 Beyond Exact Gradients: Convergence of Stochastic Soft-Max Policy Gradient Methods with Entropy Regularization] \n
 *Y. Ding*, J. Zhang, and J. Lavaei \n
-Under revision for IEEE Transactions on Automatic Control.
+Under revision for IEEE Transactions on Automatic Control (long paper).
 
 === Conference
 - [pubs/MDP_Meta_2022_1.pdf A CMDP-within-online framework for Meta-Safe Reinforcement Learning] \n
 V. Khattar, *Y. Ding*, J. Lavaei, and J. Ming\n
 International Conference on Learning Representations (ICLR) 2023.
-(*Spotlight presentation*)
+(*Spotlight*)
 
 - [https://lavaei.ieor.berkeley.edu/MARL_Local_2022.pdf Scalable Multi-Agent Reinforcement Learning with General Utilities] \n
 D. Ying, *Y. Ding*, A. Koppel, and J. Lavaei \n
@@ -29,7 +29,7 @@ American Control Conference (ACC) 2023.
 - [pubs/2022-NS-RS-RL.pdf Non-stationary Risk-sensitive Reinforcement Learning: Near-optimal Dynamic Regret, Adaptive Detection, and Separation Design] \n
 *Y. Ding*, J. Ming, and J. Lavaei \n
 AAAI Conference on Artificial Intelligence (AAAI), 2023.
-(*Oral presentation*)
+(*Oral*)
 
 - [https://arxiv.org/abs/2201.11965 Provably Efficient Primal-Dual Reinforcement Learning for CMDPs with Non-stationary Objectives and Constraints] \n
 *Y. Ding* and J. Lavaei \n
