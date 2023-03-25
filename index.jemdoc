@@ -20,6 +20,8 @@ Fifth-year PhD student,\n
 Yuhao Ding works on the interdisciplinary problems in control, reinforcement learning, optimization and statistical learning.  
 
 == News 
+- March 2023: The paper [https://lavaei.ieor.berkeley.edu/Meta_Opt_2022_1.pdf Learning-to-Learn to Guide Random Search: Derivative-Free Meta Blackbox Optimization on Manifold] to appear in Learning for Dynamics & Control Conference (L4DC).
+- March 2023: The paper [https://lavaei.ieor.berkeley.edu/Entropy_2023_1.pdf Local Analysis of Entropy-Regularized Stochastic Soft-Max Policy Gradient Methods] to appear in European Control Conference (ECC).
 - February 2023: I gave a talk on [https://sites.google.com/view/saferl-seminar/home?authuser=0 safe reinforcement learning online seminar].
 - January 2023: Our paper [pubs/MDP_Meta_2022_1.pdf A CMDP-within-online framework for Meta-Safe Reinforcement Learning] is accepted as a spotlight in International Conference on Learning Representations (ICLR).
 - January 2023: Our paper [https://lavaei.ieor.berkeley.edu/MARL_Local_2022.pdf Scalable Multi-Agent Reinforcement Learning with General Utilities] is accepted for American Control Conference (ACC).
