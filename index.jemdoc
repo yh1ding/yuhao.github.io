@@ -3,23 +3,17 @@
 
 ~~~
 {}{img_left}{photos/photo_Yuhao.jpeg}{alt text}{250px}{260px}
-Fifth-year PhD student,\n 
 
-[https://ieor.berkeley.edu/ Industrial Engineering and Operations Research], \n
-
-[https://www.berkeley.edu/ University of California, Berkeley],\n
-
-*Advisor*: [https://lavaei.ieor.berkeley.edu/ Javad Lavaei],\n
+I got my Ph.D. degree in [https://ieor.berkeley.edu/ Industrial Engineering and Operations Research] from [https://www.berkeley.edu/ University of California, Berkeley], advised by [https://lavaei.ieor.berkeley.edu/ Javad Lavaei]. My research has been focused on the interdisciplinary problems in control, reinforcement learning, optimization and statistical learning. Most recently, I work on the reinforcement learning under the safety requirements and the time-varying environments.
 
 *Email*: /yuhao_ding/ \[@\] berkeley \[DOT\] edu, \n
 
 *[cv/CV_Yuhao_Nov.pdf CV]*
 ~~~
 
-== Brief Biography
-Yuhao Ding works on the interdisciplinary problems in control, reinforcement learning, optimization and statistical learning.  
-
 == News 
+- May 2023: New paper on multi-agent reinforcement learning: [https://lavaei.ieor.berkeley.edu/Safe_MARL_2023_1.pdf Scalable Primal-Dual Actor-Critic Method for Safe Multi-Agent RL with General Utilities].
+- April 2023: I defended my PhD.
 - March 2023: The paper [https://lavaei.ieor.berkeley.edu/Meta_Opt_2022_1.pdf Learning-to-Learn to Guide Random Search: Derivative-Free Meta Blackbox Optimization on Manifold] to appear in Learning for Dynamics & Control Conference (L4DC).
 - March 2023: The paper [https://lavaei.ieor.berkeley.edu/Entropy_2023_1.pdf Local Analysis of Entropy-Regularized Stochastic Soft-Max Policy Gradient Methods] to appear in European Control Conference (ECC).
 - February 2023: I gave a talk on [https://sites.google.com/view/saferl-seminar/home?authuser=0 safe reinforcement learning online seminar].
