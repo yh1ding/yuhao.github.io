@@ -17,15 +17,15 @@ IEEE Transactions on Automatic Control (long paper), 2021.
 Under revision for IEEE Transactions on Automatic Control (long paper).
 
 === Conference
-- [https://lavaei.ieor.berkeley.edu/Safe_MARL_2023_1.pdf Scalable Primal-Dual Actor-Critic Method for Safe Multi-Agent RL with General Utilities] 
+- [https://lavaei.ieor.berkeley.edu/Safe_MARL_2023_1.pdf Scalable Primal-Dual Actor-Critic Method for Safe Multi-Agent RL with General Utilities] \n
 D. Ying, Y. Zhang, *Y. Ding*, A. Koppel, and J. Lavaei \n
 Conference on Neural Information Processing Systems (NeurIPS) 2023.
 
-- [https://hyunin-lee.github.io/assets/TempoAdaption_NSRL.pdf Tempo Adaption in Non-stationary Reinforcement Learning]
-H Lee, *Y. Ding*, J. Lee, M. Jin, J. Lavaei, and S. Sojoudi\n
+- [https://hyunin-lee.github.io/assets/TempoAdaption_NSRL.pdf Tempo Adaption in Non-stationary Reinforcement Learning]\n
+H. Lee, *Y. Ding*, J. Lee, M. Jin, J. Lavaei, and S. Sojoudi\n
 Conference on Neural Information Processing Systems (NeurIPS) 2023.
 
-- [Dynamic Ensembling for Probabilistic Time Series Forecasting via Deep Reinforcement Learning.] \n
+- [https://www.amazon.science/publications/dynamic-ensemble-for-probabilistic-time-series-forecasting-via-deep-reinforcement-learning Dynamic Ensembling for Probabilistic Time Series Forecasting via Deep Reinforcement Learning.] \n
 *Y. Ding*, Y. Park, K. Gopalswamy, H. Hasson, Y. Wang, and L. Huan \n
 MILETS workshop at Knowledge Discovery and Data Mining Conference (KDD) 2023.
 
