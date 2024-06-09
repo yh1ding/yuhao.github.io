@@ -13,10 +13,20 @@ S. Fattahi, C. Josz, *Y. Ding*, R. Mohammadi, J. Lavaei, and S. Sojoudi \n
 IEEE Transactions on Automatic Control (long paper), 2021.
 
 - [https://arxiv.org/abs/2110.10117 Beyond Exact Gradients: Convergence of Stochastic Soft-Max Policy Gradient Methods with Entropy Regularization] \n
-*Y. Ding*, J. Zhang, and J. Lavaei \n
-Under revision for IEEE Transactions on Automatic Control (long paper).
+*Y. Ding*, J. Zhang, H. Lee, and J. Lavaei \n
+IEEE Transactions on Automatic Control (long paper), 2024.
+
+- [https://lavaei.ieor.berkeley.edu/DP-One-Shot_2023_1.pdf The Landscape of the Optimal Control Problem: One-shot Optimization Versus Dynamic Programming]\n
+J. Kim, *Y. Ding*, Y. Bi, and J. Lavaei \n
+IEEE Transactions on Automatic Control (long paper), 2024.
+
 
 === Conference
+- [https://ojs.aaai.org/index.php/AAAI/article/view/30102 Balance Reward and Safety Optimization for Safe Reinforcement Learning: A Perspective of Gradient Manipulation]\n
+S. Gu, B, Sel, *Y. Ding*, L. Wang, Q. Lin, M. Jin, A. Knoll \n
+AAAI Conference on Artificial Intelligence (AAAI), 2024.
+(*Oral*)
+
 - [https://lavaei.ieor.berkeley.edu/Safe_MARL_2023_1.pdf Scalable Primal-Dual Actor-Critic Method for Safe Multi-Agent RL with General Utilities] \n
 D. Ying, Y. Zhang, *Y. Ding*, A. Koppel, and J. Lavaei \n
 Conference on Neural Information Processing Systems (NeurIPS) 2023.
@@ -92,9 +102,17 @@ Proc. 6th IFAC Conference on Analysis and Design of Hybrid Systems (ADHS), Oxfor
 
 
 === Preprint
-- [https://lavaei.ieor.berkeley.edu/DP-One-Shot_2023_1.pdf The Landscape of the Optimal Control Problem: One-shot Optimization Versus Dynamic Programming]\n
-J. Kim, *Y. Ding*, Y. Bi, and J. Lavaei \n
-Submitted for journal publication.
+- [https://lavaei.ieor.berkeley.edu/Safe-RL-2024-1.pdf Policy-based Primal-Dual Methods for Concave CMDP with Variance Reduction] \n
+D. Ying, M. Guo, H. Lee, *Y. Ding*, J. Lavaei, and Zuo-Jun (Max) Shen \n
+
+
+- [https://arxiv.org/abs/2405.20860 Enhancing Efficiency of Safe Reinforcement Learning via Sample Manipulation] \n
+S. Gu, L. Shi, *Y. Ding*, A. Knoll, C. Spanos, A. Wierman, M. Jin \n
+
+
+- [https://arxiv.org/abs/2405.16390 Safe and Balanced: A Framework for Constrained Multi-Objective Reinforcement Learning]\n
+S. Gu, B, Sel, *Y. Ding*, L. Wang, Q. Lin, A. Knoll, M. Jin \n
+
 
 - [https://lavaei.ieor.berkeley.edu/LS_2019_1.pdf Aggressive Local Search for Constrained Optimal Control Problems with Many Local Minima] \n
 *Y. Ding*, F. Han, and J. Lavaei \n
